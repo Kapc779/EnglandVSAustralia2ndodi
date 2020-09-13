@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notification",By @arvmobiles
-#EXTINF:-1 tvg-id="1" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/AusvsEng_2ndODI_1920x1080.jpg" group-title="Telegram @arvmobiles",SonyLIV English
+#EXTINF:0,By @arvmobiles
+#EXTINF:0,SonyLiv English 
 https://sonydai.akamaized.net/linear/hls/pb/event/oVbzxnh5TEK_ssGRX5WZYw/stream/f814e919-d42b-48fe-8086-23266a7f7707:SIN2/variant/735efcb854c5b15cfc6314eab3fdf50a/bandwidth/hdntl=exp=1600084256~acl=%2f*~id=e02e1001-3a74-4107-a9d2-7cc58ec3ab86~data=hdntl~hmac=20498e6200922ef1c9e9fb13afa5dfc27abe93edc0afc17ad192570a02145243/4571600.m3u8?aka_me_session_id=AAAAAAAAAAAgWV9fAAAAAJYpw2jqeEd3Fa3OwtqW0FjuVJamkLjEyZvmv7Ny9MUQ3YHdGAHNQx68yqt0fLxg+N2512Z7MX8X
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/AusvsEng_2ndODI_Hindi_1920x1080.jpg" group-title="Telegram @arvmobiles",SonyLIV Hindi
+#EXTINF:0,SonyLIV Hindi
 https://sonydai.akamaized.net/linear/hls/pb/event/cihN52epToSN20WqT8yygA/stream/6b0a406a-e584-4b3f-9ae2-94a07fdf8a61:SIN2/variant/732eeeb8f6569488b71c876cfcefa3a8/bandwidth/hdntl=exp=1600084381~acl=%2f*~id=5a4723bb-8d70-4258-93c1-9bd228b21430~data=hdntl~hmac=01d28cfec3a29b0c3102a1e3f001f857579d36e1a1dc5d4fccae87ebb430cdaf/4571600.m3u8?aka_me_session_id=AAAAAAAAAACdWV9fAAAAAA1yjPt8k7rPQdPJmNGDNMd1p9nKKzDfA2KTSOqcnw7jGmTiBaaCSuNunlHFgm0lUKNzOFHdRKRv
